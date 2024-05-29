@@ -68,7 +68,7 @@
   
  ✌️ &emsp; Enjoy to do programming and sharing knowledge <br/><br/>
  ❤️ &emsp; Love to writing code and learning new features<br/><br/>
- 📧 &emsp; Reach me anytime: thangly98.dev@gmail.com<br/><br/>
+ 📧 &emsp; Reach me anytime: thangly.dev@gmail.com<br/><br/>
  💬 &emsp; Ask me about anything [here](https://github.com/thangly98/thangly98/issues)
 
 </p>
