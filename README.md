@@ -102,14 +102,17 @@
 
 <br/>
 
-## Top Open Source -
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
+## Top Repositories
 
 [![Drag and drop tasks with a weekly calendar interface](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=calendar-drag-drop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
 
-<p align="left">
-  <a href="https://github.com/thangly98?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
+<br/>
+
+## My Gist
+
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3b3adffdf75ef9858289c7853e83f395&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/3b3adffdf75ef9858289c7853e83f395/)
+[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2770bcbb08c70de0332de83da45b59d5&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/2770bcbb08c70de0332de83da45b59d5/)
 
 <br/>
 <hr/>
