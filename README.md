@@ -19,7 +19,7 @@
 <!-- Intro  -->
 <h3 align="center">
   <samp>&gt; Hey There!, I am
-    <b><a target="_blank" href="https://thangly98.com">Finn</a></b>
+    <b><a target="_blank" href="https://thangly.vercel.app">Finn</a></b>
   </samp>
 </h3>
 
