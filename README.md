@@ -68,7 +68,7 @@
 
 ## Top Repositories
 
-[![Drag and drop tasks with a weekly calendar interface](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=calendar-drag-drop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
+[![Drag and drop tasks with a weekly calendar interface](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=calendar-drag-drop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/calendar-drag-drop)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
 
 ## My Gist
