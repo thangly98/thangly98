@@ -49,7 +49,6 @@
   <code><img height="20" alt="nextjs" title="Next.js" src="https://cdn.simpleicons.org/next.js/ffffff"></code>
   <code><img height="20" alt="redux" title="Redux" src="https://cdn.simpleicons.org/redux/764ABC"></code>
   <code><img height="20" alt="graphql" title="GraphQL" src="https://cdn.simpleicons.org/graphql/E10098"></code>
-  <code><img height="20" alt="visual-studio-code" title="Visual Studio Code" src="https://cdn.simpleicons.org/visualstudiocode/007ACC"></code>
   <code><img height="20" alt="git" title="Git" src="https://cdn.simpleicons.org/git/F05032"></code>
 </p>
 
