@@ -37,7 +37,7 @@
 <br />
 <p align="center">
   <code><img height="20" alt="html" title="HTML" src="https://cdn.simpleicons.org/html5/E34F26"></code>
-  <code><img height="20" alt="css" title="CSS" src="https://cdn.simpleicons.org/css3/1572B6"></code>
+  <code><img height="20" alt="css" title="CSS" src="https://cdn.simpleicons.org/css/1572B6"></code>
   <code><img height="20" alt="styled components" title="Styled Components" src="https://cdn.simpleicons.org/styledcomponents/DB7093"></code>
   <code><img height="20" alt="sass" title="SASS" src="https://cdn.simpleicons.org/sass/CC6699"></code>
   <code><img height="20" alt="Ant Design" title="And Design" src="https://cdn.simpleicons.org/antdesign/0170FE"></code>
@@ -67,13 +67,13 @@
 
 ## Top Repositories
 
-[![Drag and drop tasks with a weekly calendar interface](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=calendar-drag-drop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/calendar-drag-drop)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=thangly98&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
+[![Drag and drop tasks with a weekly calendar interface](https://github-readme-stats-fast.vercel.app/api/pin/?username=thangly98&repo=calendar-drag-drop&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/calendar-drag-drop)
+[![Portfolio](https://github-readme-stats-fast.vercel.app/api/pin/?username=thangly98&repo=portfolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/thangly98/portfolio)
 
 ## My Gist
 
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=3b3adffdf75ef9858289c7853e83f395&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/3b3adffdf75ef9858289c7853e83f395/)
-[![Gist Card](https://github-readme-stats.vercel.app/api/gist?id=2770bcbb08c70de0332de83da45b59d5&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/2770bcbb08c70de0332de83da45b59d5/)
+[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=3b3adffdf75ef9858289c7853e83f395&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/3b3adffdf75ef9858289c7853e83f395/)
+[![Gist Card](https://github-readme-stats-fast.vercel.app/api/gist?id=2770bcbb08c70de0332de83da45b59d5&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://gist.github.com/thangly98/2770bcbb08c70de0332de83da45b59d5/)
 
 <br/>
 <hr/>
@@ -86,20 +86,20 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/thangly98">
-    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangly98&theme=radical" alt="Finn's GitHub Contribution"/>
-  </a>
-</p>
-
-<p align="center">
     <a href="https://github.com/thangly98">
-      <img width="480px" alt="Finn's Github Stats" src="https://github-readme-stats.vercel.app/api?username=thangly98&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+      <img width="480px" alt="Finn's Github Stats" src="https://github-readme-stats-fast.vercel.app/api?username=thangly98&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
     </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/thangly98">
-    <img width="480px" alt="Finn's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=thangly98&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+    <img width="480px" alt="Finn's Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=thangly98&langs_count=8&layout=compact&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/thangly98">
+    <img width="80%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thangly98&theme=radical" alt="Finn's GitHub Contribution"/>
   </a>
 </p>
 
